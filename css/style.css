@@ -256,7 +256,7 @@ body {
     position: relative;
     height: 110vh;
     width: 100%;
-    transition: background-size 0.5s ease;
+    transition: background-size 2s ease;
   }
 
 #header:hover {
