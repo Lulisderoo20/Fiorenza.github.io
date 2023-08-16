@@ -46,6 +46,9 @@
   }
   .menu-icon {
     color: pink; /* Cambia el color a rosa */
+    position: absolute;
+    top: 20px; /* Ajusta la distancia desde la parte superior */
+    right: 20px;
   }
   /* About */
   .head-info .header-content .cmaster h1 {
