@@ -44,6 +44,9 @@
     padding-top: 15px;
     display: block;
   }
+  .menu-icon {
+    color: pink; /* Cambia el color a rosa */
+  }
   /* About */
   .head-info .header-content .cmaster h1 {
     font-size: 32px;

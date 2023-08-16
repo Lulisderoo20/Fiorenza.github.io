@@ -247,6 +247,9 @@ nav ul li a {
 
   /* Agrega más estilos según necesites */
 }
+.menu-icon {
+  color: pink; /* Cambia el color a rosa */
+}
 
 .active {
   color: #afafaf;
